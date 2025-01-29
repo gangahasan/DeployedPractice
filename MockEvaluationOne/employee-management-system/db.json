@@ -1,0 +1,42 @@
+ { "employees" : [{
+        "id":1,
+        "name": "John Doe",
+        "designation": "software Engineer",
+        "department": "IT"
+
+    },
+    {
+        "name": "Jane Smith",
+        "designation": "frontend developer",
+        "department": "HR"
+    },
+    {
+        "id":3,
+        "name": "Mark Johnson",
+        "designation": "project manager",
+        "department": "HR"
+    },
+    {
+        "id":4,
+        "name": "Sarah Wilson",
+        "designation": " UX/UI designer",
+        "department": "IT"
+    },{
+        "id":5,
+        "name": "David Brown",
+        "designation": "backend developer",
+        "department": "IT"
+    },{
+        "id":6,
+        "name": "Emily Davis",
+        "designation": "data analyst",
+        "department": "marketing"
+    },{
+        "id":7,
+        "name": "Michael Lee",
+        "designation": "product manager",
+        "department": "marketing"
+    }
+
+]
+ }
